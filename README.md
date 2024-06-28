@@ -6,6 +6,6 @@ We all make mistakes and it’s important to be forgiving of your past self.
 
 Today I’ll show you how I learned from those mistakes.
 
-![Drake Scrubber](spotify scrubber.png)
+[![Drake Scrubber](spotify scrubber.png)](https://github.com/Mike-Morrow/Drake-2-Not-Like-Us/blob/main/spotify%20scrubber.png?raw=true)
 
 
